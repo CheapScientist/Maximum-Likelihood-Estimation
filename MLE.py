@@ -14,7 +14,7 @@ from scipy.stats import chi2
 
 print('For this project I''ll choose the 8th data set. \n')
 
-data = np.loadtxt('Project4_Set8.txt')
+data = np.loadtxt('Data.txt')
 
 # Problem 1.2:
 print('Simply by opening Project4_Set8.txt in pycharm, there are 483 lines of data so N = 483. Also we could '
